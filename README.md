@@ -2,11 +2,11 @@
 
 ## Phần 1: Phân tích
 
-### Lỗi hiển thị ảnh (Image Link Syntax):
+### Lỗi hiển thị ảnh:
 
 - Nguyên nhân: Có khoảng trắng ( ) xuất hiện ở giữa dấu ngoặc vuông [...] và dấu ngoặc tròn (...).
 
-### Lỗi logic phân cấp tiêu đề (Heading Hierarchy):
+### Lỗi logic phân cấp tiêu đề:
 
 Nguyên nhân: Vi phạm cấu trúc phân cấp logic. từ H1 sang H2
 
